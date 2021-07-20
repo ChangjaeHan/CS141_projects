@@ -1,4 +1,9 @@
 # CS141_projects
+I've learned how to:
+1. use struct and class, and know how they are different from each other
+2. build sort algorithm by name, number etc
+3. utilize user-defined function to manage efficient code
+4. 
 
 # project1 #
 // banking system //
