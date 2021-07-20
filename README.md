@@ -2,7 +2,8 @@
 
 # project1 #
 // banking system //
-I id
+// This program can read files including clients' financial information and execute 5 commands //
+apple banana \n grape
 
 # project2 #
 // banking system v 2.0 //
