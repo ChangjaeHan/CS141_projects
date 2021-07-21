@@ -3,7 +3,12 @@ I've learned how to:
 1. use struct and class, and know how they are different from each other
 2. build sort algorithm by name, number etc
 3. utilize user-defined function to manage efficient code
-4. 
+4. read the files even if it is subject to change
+5. utilize priority queues and linked-list
+6. apply mathematical approaches through projects
+7. manage the memory by myself by using valgrind for dynamically-allocated arrays
+8. debug by using gdb
+9. work in a team
 
 # project1 #
 // banking system //
@@ -57,3 +62,9 @@ This class registration system can execute 9 commands;
 7. Process filename : Attempt to open the given filename and input commands from this file until “q” or “quit” is encountered
 8. Output filename : Open the given file for output and writes the current enrollment data to this file
 9. Quit
+
+# Restriction #
+1. No use global variables
+2. No use built-in algorithms. Only use what I made
+3. Must represent general solutions
+4. Crystal clear codes 
